@@ -1,4 +1,6 @@
 # EXPERIMENT 22: MICROWAVE WAVEGUIDE TRAINER KIT
+<img width="794" height="607" alt="image" src="https://github.com/user-attachments/assets/dce9bb2c-795d-44e2-8695-e8e206b44afd" />
+<img width="763" height="611" alt="image" src="https://github.com/user-attachments/assets/f9684d14-dc91-4c30-96a6-dcbaedcb3a2a" />
 
 ## I. OBJECTIVES
 
@@ -12,8 +14,8 @@
 ## II. MATERIALS AND COMPONENTS USED
 
 ### A. Power and Oscillation Modules
-- **Gunn Power Supply (Model U-3000P):** Provides the necessary low-noise DC bias voltage to drive the Gunn diode into its negative resistance region for stable microwave oscillation.
 - **1 kHz Square-Wave Modulator:** An internal or external function generator that "chops" the microwave signal, allowing for AC-coupled detection which significantly improves measurement sensitivity.
+- **Gunn Power Supply (Model U-3000P):** Provides the necessary low-noise DC bias voltage to drive the Gunn diode into its negative resistance region for stable microwave oscillation.
 - **Gunn Diode Oscillator:** The primary RF source. It utilizes a GaAs (Gallium Arsenide) diode inside a resonant cavity to produce coherent X-band microwave energy.
 
 
@@ -21,7 +23,6 @@
 - **Ferrite Isolator:** A critical non-reciprocal component that allows power to pass from the source to the load while absorbing any reflected power, protecting the Gunn diode from damage.
 - **Directional Coupler (Multi-hole):** Samples a specific portion of the signal (usually -10dB or -20dB) for monitoring purposes without significantly loading the main transmission line.
 - **E-Plane and H-Plane Bends:** Precision-curved waveguide sections used to change the routing of the signal. The **E-plane** bend curves along the Electric field, while the **H-plane** curves along the Magnetic field.
-
 - **Variable Vane Attenuator:** A calibrated device that inserts a resistive element into the waveguide to reduce signal power. Essential for preventing detector saturation.
 
 ### C. Analysis and Measurement Tools
